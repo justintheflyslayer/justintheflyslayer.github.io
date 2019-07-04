@@ -1,0 +1,1 @@
+<?php header('https://drs.phantombot.tv/points/justintheflyslayer'); ?>
